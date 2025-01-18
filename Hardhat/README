@@ -1,4 +1,8 @@
-
+## To install hardhat
 ```bash
     npm install --save-dev hardhat
+```
+## To run deply script
+```bash
+    npx hardhat run scripts/deploy.js
 ```
